@@ -101,7 +101,7 @@ public class str_fun
         System.out.println("   Sandesh   trimed String : "+ s.trim("   Sandesh   "));
         System.out.println();
 
-        System.out.println("9. toUpperCase()");
+        System.out.println("10. toUpperCase()");
         System.out.println("Uppercase String : "+ s.toUpperCase("sandesh"));
         System.out.println();
     }
