@@ -1,4 +1,7 @@
-// Implement hybrid inheritance using all access specifiers (public, private,protected).
+/* Name : Sandesh Shivaji Shinde 
+    PRN : 23620006
+    Ques.Implement hybrid inheritance using all access specifiers (public, private,protected).
+ */
 
 public class hybrid {
     public static void main(String[] args) {

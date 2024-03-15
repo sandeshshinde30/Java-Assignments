@@ -1,3 +1,12 @@
+/*
+    Ques : Define a package named 'useful' with a class name 'Useme' having
+            following methods:
+            1. area → To calculate area of given shape.
+            2. percentage → to calculate percentage given total marks and marks
+            obtained.
+            Develop a program to import above package and use both methods.
+ */
+
 import useful.Useme;
 
 public class Main {

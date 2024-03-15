@@ -1,3 +1,7 @@
+/* Name : Sandesh Shivaji Shinde 
+PRN : 23620006
+Ques. : Implement all stringBuilder functions in java.
+*/
 
 
 public class strbuilder_fun

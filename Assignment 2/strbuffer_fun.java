@@ -1,4 +1,7 @@
-
+/* Name : Sandesh Shivaji Shinde 
+PRN : 23620006
+Ques. : Implement all stringBuffer functions in java.
+*/
 
 public class strbuffer_fun
 {

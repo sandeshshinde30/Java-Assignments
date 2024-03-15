@@ -1,3 +1,8 @@
+/* Name : Sandesh Shivaji Shinde 
+PRN : 23620006
+Ques. : Implement all string functions in java.
+*/
+
 import java.io.*;
 import java.util.*;
 

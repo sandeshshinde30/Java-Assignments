@@ -1,3 +1,7 @@
+/* Name : Sandesh Shivaji Shinde 
+PRN : 23620006
+Ques. : Write a Java Program to demonstrate Method overriding.
+*/
 class Result {
     public void result() {
         System.out.println("Result: Pass");

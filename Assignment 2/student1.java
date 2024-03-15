@@ -1,3 +1,12 @@
+/* Name : Sandesh Shivaji Shinde 
+PRN : 23620006
+Ques. : Write a java program to create a class called STUDENT with data
+members PRN, Name and age. Using inheritance, create a classes called
+UGSTUDENT and PGSTUDENT having fields as semester, fees and
+stipend. Enter the data for at least 5 students. Find the semester wise
+average age for all UG and PG students separately.
+*/
+
 import java.util.*;
 
 class STUDENT {
