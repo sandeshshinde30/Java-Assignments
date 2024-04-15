@@ -8,13 +8,9 @@ import java.io.IOException;
 
 public class Ques_5 {
     public static void main(String[] args) {
-        if (args.length != 2) {
-            System.out.println("Usage: java Ques_5 <file-path> <text-to-append>");
-            return;
-        }
-
-        String filePath = args[0]; 
-        String textToAppend = args[1]; 
+       
+        String filePath = "./append.txt"; 
+        String textToAppend = "append.txt"; 
 
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter(filePath, true));
